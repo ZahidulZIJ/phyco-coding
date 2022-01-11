@@ -19,3 +19,15 @@ section{ display: flex;}
 }
 .top-banner{ background-image: url( img/bg/top-banner.png);
          background-repeat:no-repeat; }
+.half-tow{ padding-left: 400px;
+         width: 40%; }
+.photo-tow img{display: block;
+    height:550px;
+    padding: 2%;} 
+.button-resume{  text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 6px;}
+.dream{ background-image:url(img/bg/dream-bg.png);
+    background-repeat:no-repeat; 
+   background-position: right;}
